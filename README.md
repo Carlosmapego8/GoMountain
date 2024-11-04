@@ -1,4 +1,5 @@
 # Horarios Residencia
+Un cliente, auxiliar en una residencia, encuentra que no hay coordinación entre sus compañeros a la hora de cambiar turnos, realizar horarios de guardia y sustituir bajas. Después de más de diez años en la profesión aún no entiende cómo algo tan vital como los horarios de trabajo no son respetados en gran cantidad de ocasiones.
 
 ## Descripción del Problema
 En una residencia los auxiliares tienen que cumplir sus horas de trabajo a través de turnos rotatorios. Estos turnos rotan entre mañana, tarde y noche. Además estos turnos también son rotatorios entre las distintas tareas en la residencia, es decir, unos días un auxiliar trabajará realizando unas tareas y otros días otras totalmente distintas.
