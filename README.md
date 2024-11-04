@@ -16,12 +16,16 @@ Los días libres se organizan de la siguiente forma:
 * Vacaciones: 30 días
 * Bajas: según motivo de baja (operación de familiar, operación propia,...)
 
-[Configuración](./docs/)
-
 Los contratos son de los siguientes tipos:
 * Sustitutos: contratos variables según necesidad
 * Rotatorios: 40 horas semanales (con o sin noches dependiendo del caso)
 * Jornada Reducida: 20 horas semanales (con o sin noches dependiendo del caso)
 * Contratos extraordinarios: horas extra, guardias, ...
+
+
+
+## Configuración
+* [ssh](./SSH-Keys.png)
+* [Perfil](./Public%20Profile.png)
   
   
