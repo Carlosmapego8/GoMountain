@@ -29,4 +29,8 @@ Los contratos son de los siguientes tipos:
 * [ssh](./SSH-Keys.png)
 * [Perfil](./Public%20Profile.png)
   
-  
+
+## Usuarios y Milestones
+- [User Journeys](docs/user_journey.md)
+- [User Stories](docs/user_stories.md)
+- [Milestones](docs/milestones.md)
