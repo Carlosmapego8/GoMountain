@@ -3,7 +3,7 @@ Un cliente, auxiliar en una residencia, encuentra que no hay coordinación entre
 
 ## Descripción del Problema
 En una residencia los auxiliares tienen que cumplir sus horas de trabajo a través de turnos rotatorios. Estos turnos rotan entre mañana, tarde y noche. Además estos turnos también son rotatorios entre las distintas tareas en la residencia, es decir, unos días un auxiliar trabajará realizando unas tareas y otros días otras totalmente distintas.
-Normalmente, esta planificación se realiza una vez y es conocida de antemano, sin embargo, esta forma de trabajar es poco flexible a imprevistos, vacaciones, días de asuntos propios,... en definitiva, cualquier cosa que se salga de lo establecido supone un problema. Por este motivo, se quiere generar un horario que organice de manera óptima los turnos, repartiendo de forma equitativa las sustituciones y teniendo en cuenta cada tipo de contrato.
+Normalmente, esta planificación se realiza una vez y es conocida de antemano, sin embargo, esta forma de trabajar es poco flexible a imprevistos, vacaciones, días de asuntos propios,... en definitiva, cualquier cosa que se salga de lo establecido supone un problema. El problema principal radica en la falta de flexibilidad de un sistema de planificación que, aunque efectivo a corto plazo, no está diseñado para adaptarse bien a situaciones imprevistas o cambios urgentes. 
 
 ### Detalles del problema
 
