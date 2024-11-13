@@ -2,18 +2,18 @@
 
 ### [M0] Milestone 0: Modelo del problema
 
-+ **Descripción**: Analizar las historias de usuario para modelar los elementos fundamentales del dominio. 
-+ **Entregable**: Código que encapsule los elementos fundamentales del dominio.
-+ **Validación**: Se considerará validado cuando el producto presentado represente el dominio del problema presentado en [HU001](https://github.com/Carlosmapego8/GoMountain/issues/2)
++ **Descripción**: Analizar [HU001](https://github.com/Carlosmapego8/GoMountain/issues/2) para definir las estructuras de datos que se utilizarán durante el proyecto. Obteniendo así un modelo del problema.
++ **Entregable**: Código, sin implementación, de las clases que serán necesarias para la futura implementación de la lógica de negocio.
++ **Validación**: Se considerará validado cuando el producto presentado represente el modelo presentado en [HU001](https://github.com/Carlosmapego8/GoMountain/issues/2)
 
-### [M1] Milestone 1: Creación del Algoritmo de Asignación de Turnos
-+ **Descripción del producto**: Implementar el algoritmo que asigna los turnos de maneta automática, respetando las restricciones explicadas (horas de trabajo, preferencias y reparto equitativo). El algoritmo debería optimizar la distribución de los turnos.
-+ **Entregable** : Código del algoritmo de asignación de turnos, que se utilizará para distribuir los turnos de forma automática.
-+ **Validación**: Se considerará validado mediante pruebas en conjuntos de datos de prueba, asegurando una correcta asignación de turnos.
+### [M1] Milestone 1: Creación de la lógica de negocio
++ **Descripción**: Implementar la lógica de negocio respectando las restricciones indicadas en [HU001](https://github.com/Carlosmapego8/GoMountain/issues/2) (reparto equitativo, horas máximas,...)
++ **Entregable** : Código que implimente la lógica de negocio 
++ **Validación**: Se considerará validado mediante pruebas en conjuntos de datos de prueba, asegurando su correcto funcionamiento.
 
 ## Milestones Adicionales
 
-## [M2] Milestone 2: Mejoras del Algoritmo de Asignación de Turnos
-+ **Descripción del producto**: Implementar mejoras adicionales al algoritmo ya creado en M1, como la posibilidad de intercambiar turnos entre auxiliares, siempre que este intercambio no provoque que se incumplan las restricciones.
-+ **Entregable** : Código del algoritmo de asignación de turnos mejorado que permite el intercambio de turnos entre auxiliares, que completa el algoritmo anteriormente entregado.
-+ **Validación**: Se considerará validado mediante pruebas con situaciones ficticias, asegurando que se permiten los cambios permitidos por las restricciones.
+## [M2] Milestone 2: Mejoras en la lógica de negocio
++ **Descripción**: Implementar mejoras adicionales a la lógica ya creada en M1, para añadir aspectos de [HU002](https://github.com/Carlosmapego8/GoMountain/issues/3)
++ **Entregable** : Código que implemente la lógica de negocio mejorada, que completa la lógica anteriormente entregada.
++ **Validación**: Se considerará validado mediante pruebas con situaciones ficticias, asegurando su correcto funcionamiento
