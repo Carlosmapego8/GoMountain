@@ -2,7 +2,7 @@
 
 ### [M0] Milestone 0: Modelo del problema
 
-+ **Descripción**: Analizar [HU001](https://github.com/Carlosmapego8/GoMountain/issues/2) para definir las estructuras de datos que se utilizarán durante el proyecto. Obteniendo así un modelo del problema.
++ **Descripción**: Definir las estructuras de datos que se utlizarán durante el proyecto. Obteniendo la representación de lo planteado en [HU001](https://github.com/Carlosmapego8/GoMountain/issues/2) 
 + **Entregable**: Código, sin implementación, de las clases que serán necesarias para la futura implementación de la lógica de negocio.
 + **Validación**: Se considerará validado cuando el producto presentado represente el modelo presentado en [HU001](https://github.com/Carlosmapego8/GoMountain/issues/2)
 
