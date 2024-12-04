@@ -12,5 +12,6 @@ type Auxiliar struct {
 	Apellidos string
 	Contrato contrato.Contrato
 	Turnos []turno.Turno
+	TurnoPreferido turno.TipoTurno
 	DiasLibres []diaslibres.DiasLibres
 }
