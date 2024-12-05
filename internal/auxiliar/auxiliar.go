@@ -2,7 +2,6 @@ package auxiliar
 
 import (
 	"GoMountain/internal/contrato"
-	"GoMountain/internal/diaslibres"
 	"GoMountain/internal/turno"
 )
 
@@ -13,5 +12,5 @@ type Auxiliar struct {
 	Contrato contrato.Contrato
 	Turnos []turno.Turno
 	TurnoPreferido turno.TipoTurno
-	DiasLibres []diaslibres.DiasLibres
+	DiasBaja int
 }

@@ -7,6 +7,4 @@ type Motivo int
 const (
 	AsuntosPropios Motivo = iota
 	Vacaciones
-	Baja
 )
-	
