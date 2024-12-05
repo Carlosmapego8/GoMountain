@@ -5,9 +5,8 @@ import (
 )
 
 type Turno struct {
-	Dia time.Time
-	HoraInicio string
-	HoraFin string
+	Inicio time.Time
+	Fin time.Time
 	Tipo TipoTurno
 }
 
