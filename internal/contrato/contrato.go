@@ -18,3 +18,17 @@ const (
 	Sustitucion
 	Extraordinario
 )
+
+// Constructor
+func NewContrato(tipo TipoContrato, horas int, diasLibres diaslibres.DiasLibres) Contrato {
+
+	if horas < 0 {
+		horas = 0
+	}
+
+	return Contrato{
+		Tipo: tipo,
+		Horas: horas,
+		DiasLibres: diasLibres,
+	}
+}
