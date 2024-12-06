@@ -1,4 +1,4 @@
-package diaslibres
+package gestorturnos
 
 type DiasLibres map[Motivo]int
 
