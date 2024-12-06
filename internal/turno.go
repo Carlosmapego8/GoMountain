@@ -4,16 +4,18 @@ import (
 	"time"
 )
 
+// Turno
 type Turno struct {
 	Inicio time.Time
 	Fin    time.Time
 	Tipo   TipoTurno
 }
 
-type TipoTurno int
+// Tipo de turno
+type TipoTurno string
 
 const (
-	Manana TipoTurno = iota
-	Tarde
-	Noche
+	Manana TipoTurno = "Mañana"
+	Tarde  TipoTurno = "Tarde"
+	Noche  TipoTurno = "Noche"
 )
