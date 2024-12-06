@@ -1,21 +1,23 @@
 package gestorturnos
 
+// Contrato
 type Contrato struct {
 	Tipo       TipoContrato
 	Horas      int
 	DiasLibres DiasLibres
 }
 
-type TipoContrato int
+// Tipo de contrato
+type TipoContrato string
 
 const (
-	Rotatorio TipoContrato = iota
-	JornadaReducida
-	Sustitucion
-	Extraordinario
+	Rotatorio       TipoContrato = "Rotatorio"
+	JornadaReducida TipoContrato = "JornadaReducida"
+	Sustitucion     TipoContrato = "Sustitucion"
+	Extraordinario  TipoContrato = "Extraordinario"
 )
 
-// Constructor
+// Constructor de Contrato
 func NewContrato(tipo TipoContrato, horas int, diasLibres DiasLibres) Contrato {
 
 	if horas < 0 {
