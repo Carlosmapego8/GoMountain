@@ -34,3 +34,8 @@ Los contratos son de los siguientes tipos:
 - [User Journeys](docs/user_journey.md)
 - [User Stories](docs/user_stories.md)
 - [Milestones](docs/milestones.md)
+
+## Gestor de tareas y dependencias
+- [Gestor de Tareas](docs/gestor_tareas.md)
+- [Gestor de dependencias](docs/gestor_dependencias.md)
+
