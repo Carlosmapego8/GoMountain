@@ -39,3 +39,8 @@ Los contratos son de los siguientes tipos:
 - [Gestor de Tareas](docs/gestor_tareas.md)
 - [Gestor de dependencias](docs/gestor_dependencias.md)
 
+## Ordenes para ejecutar el gestor de tareas
+- `just check`: verifica el correcto formateo del código.
+- `just clean`: limpia el binario y otros archivos.
+- `just build`: compila el proyecto y genera el binario.
+- `just installDeps`: instala las dependencias del proyecto.
