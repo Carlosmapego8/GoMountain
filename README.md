@@ -43,4 +43,4 @@ Los contratos son de los siguientes tipos:
 - `just check`: verifica el correcto formateo del código.
 - `just clean`: limpia el binario y otros archivos.
 - `just build`: compila el proyecto y genera el binario.
-- `just installDeps`: instala las dependencias del proyecto.
+- `just install_deps`: instala las dependencias del proyecto.
