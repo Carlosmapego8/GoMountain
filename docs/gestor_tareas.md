@@ -13,8 +13,3 @@
 
 ## Elección
 Valorando los pros y contras de las opciones anteriormente expuestas, considero que la elección más sensata será el uso de Just. Su sencillez facilitará la automatización de las tareas repetitivas (compilación y ejecuciones) sumado a la facilidad futura de mantenimiento. Enlazando con la gestión de dependencias, al estar escrito en el propio lenguaje Go no necesitaremos tener en cuenta dependencias extras.
-
-## Tareas a automatizar:
-- Compilación del proyecto y generación del binario en una carpeta `/bin`
-- Instalar las dependencias necesarias
-- Verificar el correcto formateado del código fuente 
