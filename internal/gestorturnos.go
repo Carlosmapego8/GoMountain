@@ -5,7 +5,7 @@ import (
 )
 
 type GestorTurnos struct {
-	Auxiliares []Auxiliar
+	Auxiliares map[string]Auxiliar
 }
 
 // Singleton de GestorTurnos
