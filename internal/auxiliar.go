@@ -1,9 +1,11 @@
 package gestorturnos
 
+import "time"
+
 type Auxiliar struct {
-	ID             int
+	NombreUnico    string
 	Contrato       Contrato
-	Turnos         []Turno
+	Turnos         map[time.Time]Turno
 	TurnoPreferido TipoTurno
 	DiasBaja       int
 }
