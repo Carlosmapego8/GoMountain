@@ -2,7 +2,7 @@
 
 ## Requisitos para la elección del gestor de tareas
 - Con el principal objetivo de reducir la deuda téncica en esta parte, la herramienta debe de ser una que esté actualizada. Consideraremos que la herramienta está actualizada si bien su última actualización fue hace menos de 6 meses.
-- Queremos continuar con las buenas prácticas que recomienda Go, así que elegiremos una herramienta que nos permita mantenerlas.
+- Queremos continuar con las [buenas prácticas que recomienda Go](https://go.dev/doc/effective_go), así que elegiremos una herramienta que nos permita mantenerlas.
 - Buscaremos una herramienta con la que, en caso de no tener experiencia previa, su uso no suponga un cuello de botella por la complejidad que suponga su aprendizaje (en este caso se tendrá en cuenta la calidad y cantidad de documentación desde la que se podrá llevar a cabo este aprendizaje). En este punto, evidentemente será preferible seleccionar una herramienta que previamente se conozca.
 - Intentaremos que su uso genere la menor cantidad de dependencias posibles, de esta forma conseguiremos que la herramienta no sea un problema por ella misma.
 - Adecuarnos a la complejidad necesaria para el proyecto. Algunas herramientas pueden ser más sofisticadas pero requirir una configuración complicada desde el principio. Sabiendo que el proyecto que estamos tratando no es de gran tamaño, buscaremos alguna herramienta que pueda ser capaz de funcionar con la mínima configuración.
