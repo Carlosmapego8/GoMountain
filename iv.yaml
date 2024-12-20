@@ -1,0 +1,5 @@
+lenguaje: Go
+entidad: internal/gestorturnos.go
+automatizar:
+  fichero: justfile
+  orden: just
