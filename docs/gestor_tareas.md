@@ -1,11 +1,8 @@
 # Gestor tareas
 
 ## Requisitos para la elección del gestor de tareas
-- Con el principal objetivo de reducir la deuda téncica en esta parte, la herramienta debe de ser una que esté actualizada. Consideraremos que la herramienta está actualizada si bien su última actualización fue hace menos de 6 meses.
-- Queremos continuar con las [buenas prácticas que recomienda Go](https://go.dev/doc/effective_go), así que elegiremos una herramienta que nos permita mantenerlas.
-- Buscaremos una herramienta con la que, en caso de no tener experiencia previa, su uso no suponga un cuello de botella por la complejidad que suponga su aprendizaje (en este caso se tendrá en cuenta la calidad y cantidad de documentación desde la que se podrá llevar a cabo este aprendizaje). En este punto, evidentemente será preferible seleccionar una herramienta que previamente se conozca.
-- Intentaremos que su uso genere la menor cantidad de dependencias posibles, de esta forma conseguiremos que la herramienta no sea un problema por ella misma.
-- Adecuarnos a la complejidad necesaria para el proyecto. Algunas herramientas pueden ser más sofisticadas pero requirir una configuración complicada desde el principio. Sabiendo que el proyecto que estamos tratando no es de gran tamaño, buscaremos alguna herramienta que pueda ser capaz de funcionar con la mínima configuración.
+- Se busca que haya actualizaciones por lo menos en los últimos 12 meses para considerar que la herramienta está activa. Si esto no se cumple, podríamos considerar que hay una falta de mantenimiento, lo que conllevaría un aumento de la deuda técnica. En el caso de que esto no se cumpla, veremos si la herramienta es estable y contrastada (como por ejemplo lo es Make). En este caso, al haber alcanzado un alto nivel de madurez se entiende que las actualizaciones y mejoras sean menos frecuentes y que, a pesar de no recibirlas, es una herramienta suficientemente confiable como para utilizarla.
+- Buscaremos una herramienta con la que, en caso de no tener experiencia previa, su uso no suponga un cuello de botella por la complejidad que suponga su aprendizaje. Para ello, su comunidad deber ser activa y amplia, esto también nos indicará el punto de madurez de la herramienta. Para medirlo, se utilizará estadísticas de su propio repositorio de github como el número de forks y estrellas que tienen. Desde fuera de esta plataforma, se contabilizará si hay foros externos que hayan acogido consultas sobre ellas; si nos encontramos con un problema y alguien previamente ya lo ha tenido que enfrentar y resolver todo será mucho más fácil.
 
 ## Opciones consideradas
 
